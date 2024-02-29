@@ -1,6 +1,6 @@
 1.  Inputs (temperature and light sensitivity) that represent crisp values are fuzzified. This operation involves classifying them into appropriate fuzzy sets based on the calculated degree of membership.
 
-![image](https://github.com/gracjanh/FuzzyLogicController/assets/74767350/c61fdf8c-5ae8-49ac-b0ef-298fee191cc8)
+![image](https://github.com/gracjanh/FuzzyLogicController/assets/74767350/a6e64077-917b-40e8-89ff-d24988870e92)
 
 2. Logical rules are created. Each rule consists of the words "if" and "then", specifying the set of conditions and the conclusion.
 
